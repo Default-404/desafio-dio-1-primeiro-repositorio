@@ -1,2 +1,4 @@
-# desafio-dio-1-primeiro-repositorio
-Projeto pratico de criação do primeiro repositório no GitHub
+# 1º Desafio DIO
+## "Criando seu Primeiro Repositório no GitHub"
+
+Projeto pratico que tem como objetivo a criação do primeiro repositório no GitHub
